@@ -71,6 +71,6 @@ The browser should be up and the application should be running
 
 - [Profile](https://github.com/Suren55 "Suren Margaryan")
 
-**Mevludin Terzic **
+**Mevludin Terzic**
 
 - [Profile](https://github.com/mevludint)
