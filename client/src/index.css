@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  padding: 0 0 0 0;
+  font-family: sans-serif;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.searchWrapper:active {
+  border: solid 2px #62c1c5;
+}
+
+.searchWrapper:focus {
+  border: solid 2px #62c1c5;
+}
+
+.searchWrapper:focus-within {
+  border: solid 2px #62c1c5;
+}
+
+.google-btn {
+  background-color: #dd4b39 !important;
+  margin-bottom: 1rem !important;
+  color: #ffffff !important;
+}
+
+.facebook-btn {
+  background-color: #3b5998 !important;
+  margin-bottom: 1rem !important;
+  color: #ffffff !important;
+}
+
+.sign-in-btn {
+  background-color: #62c1c5 !important;
+  margin-top: 3ch !important;
+  margin-bottom: 5ch !important;
+  color: #ffffff !important;
+}
+
+.make-offer-btn {
+  background-color: #62c1c5 !important;
+  color: #ffffff !important;
+  font-variant-caps: unset !important;
+  text-transform: none !important;
+  border-radius: 0 !important;
+
+}
+
+.favorites-btn {
+  background-color: #62c1c5 !important;
+  color: #ffffff !important;
+  font-variant-caps: unset !important;
+  text-transform: none !important;
+  border-radius: 0 !important;
+
+}
+
+.make-offer-btn:hover, .make-offer-modal-btn:hover, .favorites-btn:hover {
+  transition: all 0.2s ease-in-out;
+  background-color: #62c1c5 !important;
+  opacity: 0.9;
+  bottom: 1px;
+  right: 1px;
+}
+.make-offer-btn:active, .make-offer-modal-btn:active, .favorites-btn:active {
+  transition: all 0.2s ease-in-out;
+  background-color: #62c1c5 !important;
+  /*opacity: 0.9;*/
+  bottom: -1px;
+  right: -1px;
+}
+
+.make-offer-modal-btn {
+  background-color: #62c1c5 !important;
+  color: #ffffff !important;
+  font-variant-caps: unset !important;
+  text-transform: none !important;
+
+
+}
+
+a {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  /* For mobile phones: */
+  .PTPlr {
+    border-radius: unset !important;
+    min-height: 100vh;
+  }
+
+}
+
+
+.MuiButton-containedPrimary:hover {
+  background-color: #48a6aa !important;
+}
+
+.MuiButton-outlinedPrimary {
+  border-color: #62c1c5 !important;
+  color: #62c1c5 !important;
+}
+
+.multiselect-container {
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.multiSelectContainer input {
+  height: 40px;
+}
+
+#dateInput{
+  padding: 10px !important;
+}
+
+
+.MuiGrid-container:focus-visible{
+  outline: none !important;
+}
+
+
+input[type = "date"],.dateInput, .dateInput:hover, .dateInput:active, .dateInput:focus, .dateInput:focus-visible{
+  outline: unset !important;
+
+  /*border: 0px !important;*/
+  /*border-width: 0px !important;*/
+}
+
+
+.MuiChip-outlinedPrimary 	{
+  max-width: 100%;
+  width: 100%;
+
+  justify-content: space-between !important;
+  margin-top: 0.5rem;
+
+  color: #000 !important;
+  border-color: #62c1c5 !important;
+
+}
+.MuiChip-deleteIconOutlinedColorPrimary{
+  color: #62c1c5 !important;
+}
+
+
+
+.view-offer-btn{
+  border-radius: 10px !important;
+
+  width: 100% !important;
+  background-color: #62c1c5 !important;
+  color: #ffffff !important;
+  font-variant-caps: unset !important;
+  text-transform: none !important;
+
+}

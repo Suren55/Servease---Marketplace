@@ -1,0 +1,16 @@
+{
+    "name": "My Express App",
+    "jwtPrivateKey": "mySecretValue",
+    "cognito": {
+        "domain": "localhost",
+        "REGION": "us-east-2",
+        "USER_POOL_ID": "hidden",
+        "APP_CLIENT_ID": "hidden"
+    },
+    "S3":{
+        "AWS_BUCKET_NAME": "hidden",
+        "AWS_BUCKET_REGION": "ca-central-1",
+        "AWS_ACCESS_KEY": "hidden",
+        "AWS_SECRET_KEY": "hidden"
+    }
+}

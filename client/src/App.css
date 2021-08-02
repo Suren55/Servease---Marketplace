@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+#header {
+  padding: 1rem 0.2rem;
+}
+
+.button1 {
+  display: inline-block;
+  padding: 5px 20px;
+  margin-right: 10px;
+  border: 2px solid #62c1c5;
+  border-radius: 10px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 300;
+  color: #000000;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.button1:hover {
+  color: #ffffff;
+  background-color: #62c1c5;
+}
+
+.button2 {
+  display: inline-block;
+  padding: 5px 20px;
+  margin-right: 10px;
+  border: 2px solid #62c1c5;
+  background-color: #62c1c5;
+  border-radius: 10px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 300;
+  color: #ffffff;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.button2:hover {
+  color: #000000;
+}

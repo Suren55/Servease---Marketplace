@@ -1,0 +1,9 @@
+{
+    "apiUrl": "http://localhost:5001/api",
+    "cognito": {
+        "domain": "localhost",
+        "REGION": "us-east-2",
+        "USER_POOL_ID": "hidden",
+        "APP_CLIENT_ID": "hidden"
+    }
+}
