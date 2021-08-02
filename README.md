@@ -1,6 +1,6 @@
 <h1>Servease</h1>
 
-<p>An online online marketplace for bakers and cake buyers. The goal is to match bakers and people who are looking to buy customized cakes</p>
+<p>An online marketplace for bakers and cake buyers. The goal is to match bakers and people who are looking to buy customized cakes</p>
 
 ## Screenshots
 
