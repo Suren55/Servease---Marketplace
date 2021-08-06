@@ -62,7 +62,7 @@ The browser should be up and the application should be running
 - Material UI
 
 # What you need to know
-- The application is under active construction at the moment
+- The application is currently under active development.
 - AWS Cognito and MongoDB api keys, security keys and passwords are excluded from the project, therefore some of the functionalities may not be accessible.
 
 ## Authors
